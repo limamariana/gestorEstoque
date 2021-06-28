@@ -1,0 +1,16 @@
+C:\Users\m.rodrigues.de.lima\Desktop\lógica\gestorEstoque\gestorEstoque\gestorEstoque\bin\Debug\net5.0\gestorEstoque.exe
+C:\Users\m.rodrigues.de.lima\Desktop\lógica\gestorEstoque\gestorEstoque\gestorEstoque\bin\Debug\net5.0\gestorEstoque.deps.json
+C:\Users\m.rodrigues.de.lima\Desktop\lógica\gestorEstoque\gestorEstoque\gestorEstoque\bin\Debug\net5.0\gestorEstoque.runtimeconfig.json
+C:\Users\m.rodrigues.de.lima\Desktop\lógica\gestorEstoque\gestorEstoque\gestorEstoque\bin\Debug\net5.0\gestorEstoque.runtimeconfig.dev.json
+C:\Users\m.rodrigues.de.lima\Desktop\lógica\gestorEstoque\gestorEstoque\gestorEstoque\bin\Debug\net5.0\gestorEstoque.dll
+C:\Users\m.rodrigues.de.lima\Desktop\lógica\gestorEstoque\gestorEstoque\gestorEstoque\bin\Debug\net5.0\ref\gestorEstoque.dll
+C:\Users\m.rodrigues.de.lima\Desktop\lógica\gestorEstoque\gestorEstoque\gestorEstoque\bin\Debug\net5.0\gestorEstoque.pdb
+C:\Users\m.rodrigues.de.lima\Desktop\lógica\gestorEstoque\gestorEstoque\gestorEstoque\obj\Debug\net5.0\gestorEstoque.csprojAssemblyReference.cache
+C:\Users\m.rodrigues.de.lima\Desktop\lógica\gestorEstoque\gestorEstoque\gestorEstoque\obj\Debug\net5.0\gestorEstoque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.rodrigues.de.lima\Desktop\lógica\gestorEstoque\gestorEstoque\gestorEstoque\obj\Debug\net5.0\gestorEstoque.AssemblyInfoInputs.cache
+C:\Users\m.rodrigues.de.lima\Desktop\lógica\gestorEstoque\gestorEstoque\gestorEstoque\obj\Debug\net5.0\gestorEstoque.AssemblyInfo.cs
+C:\Users\m.rodrigues.de.lima\Desktop\lógica\gestorEstoque\gestorEstoque\gestorEstoque\obj\Debug\net5.0\gestorEstoque.csproj.CoreCompileInputs.cache
+C:\Users\m.rodrigues.de.lima\Desktop\lógica\gestorEstoque\gestorEstoque\gestorEstoque\obj\Debug\net5.0\gestorEstoque.dll
+C:\Users\m.rodrigues.de.lima\Desktop\lógica\gestorEstoque\gestorEstoque\gestorEstoque\obj\Debug\net5.0\ref\gestorEstoque.dll
+C:\Users\m.rodrigues.de.lima\Desktop\lógica\gestorEstoque\gestorEstoque\gestorEstoque\obj\Debug\net5.0\gestorEstoque.pdb
+C:\Users\m.rodrigues.de.lima\Desktop\lógica\gestorEstoque\gestorEstoque\gestorEstoque\obj\Debug\net5.0\gestorEstoque.genruntimeconfig.cache
